@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/drewatienza/atienza_view_tool
+  revision: 1feea15ebe92309d5f1fb8d01524c06f69c60619
+  specs:
+    atienza_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -179,6 +185,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  atienza_view_tool!
   bcrypt (~> 3.1.7)
   bootstrap (~> 4.0.0.alpha6)
   byebug
