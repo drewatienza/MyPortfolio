@@ -171,8 +171,7 @@ body {
 }
 
 .card {
-  margin-top: 60px;
-  margin-bottom: 75px;
+  vertical-align: middle;
 }
 
 .card-header {
@@ -187,3 +186,9 @@ body {
 .form-group {
   margin-bottom: 5px;
 }
+
+.register-text {
+  color: black;
+  text-align: right;
+}
+
