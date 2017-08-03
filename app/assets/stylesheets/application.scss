@@ -239,12 +239,14 @@ body {
 .tech-news {
   color: black;
   margin: 20px;
+  text-shadow: none;
 }
 
 .tech-news a {
   color:  #8FBC8F;
+  text-shadow: none;
 }
 
 .tech-news > .card {
-  padding: 20px;
+  padding: 10px 20px;
 }
