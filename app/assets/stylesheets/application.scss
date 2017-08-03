@@ -157,7 +157,7 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 60rem;
+    width: 65rem;
   }
 }
 
@@ -234,4 +234,17 @@ body {
 .contact-page .card-header {
   background-color: DimGray;
   color: white;
+}
+
+.tech-news {
+  color: black;
+  margin: 20px;
+}
+
+.tech-news a {
+  color:  #8FBC8F;
+}
+
+.tech-news > .card {
+  padding: 20px;
 }
