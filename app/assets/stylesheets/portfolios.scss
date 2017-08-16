@@ -38,13 +38,14 @@ body {
 
 .card {
   float: left;
-  width: 33.333%;
+  width: 100%;
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
 }
 
 .card > img {
+  height: 200px;
   margin-bottom: .75rem;
 }
 
