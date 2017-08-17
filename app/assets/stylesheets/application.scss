@@ -261,11 +261,7 @@ body {
 }
 
 .profile-img {
-  padding: 20px 0px 0px 20px;
-}
-
-.about-me-info {
-  padding-top: 15px;
+  border: 1px solid grey;
 }
 
 .contact-paragraph p {
@@ -274,4 +270,8 @@ body {
 
 .card-block {
   margin: 5px 0;
+}
+
+.skill {
+  margin: 10px 0;
 }
