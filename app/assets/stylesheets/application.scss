@@ -261,9 +261,17 @@ body {
 }
 
 .profile-img {
-  border: 1px solid gray;
+  padding: 20px 0px 0px 20px;
+}
+
+.about-me-info {
+  padding-top: 15px;
 }
 
 .contact-paragraph p {
   text-align: left;
+}
+
+.card-block {
+  margin: 5px 0;
 }
